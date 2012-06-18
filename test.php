@@ -1,3 +1,3 @@
 <?php
-echo "hello just testing php454545";
+echo "now hello just testing php";
 ?>
